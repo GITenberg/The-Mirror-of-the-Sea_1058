@@ -1,0 +1,34 @@
+_repo: The-Mirror-of-the-Sea_1058
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Conrad, Joseph
+    aliases:
+    - Korzeniowski, Joseph Conrad Theodore
+    - Korzeniowski, Jozef Konrad Teodor
+    - Korzeniowski, Józef Konrad Teodor
+    birthdate: 1857
+    deathdate: 1924
+    gutenberg_agent_id: '125'
+    url: http://www.gutenberg.org/2009/agents/125
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Conrad
+description: The Mirror of the Sea is Joseph Conrad's true-life account of his seventeen-year
+  odyssey at sea, told through a series of essays. Portraying the ocean as a metaphor
+  against which men could measure themselves, Conrad hints at the themes of his later
+  fictional works. First published in 1906.
+gutenberg_issued: '1997-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1058'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Seafaring life'
+- !lcc 'PR'
+- !lcsh 'Conrad, Joseph, 1857-1924 -- Travel'
+- !lcc 'G'
+- GITenberg
+title: The Mirror of the Sea
+url: http://www.gutenberg.org/ebooks/1058
