@@ -1,5 +1,8 @@
 _repo: The-Mirror-of-the-Sea_1058
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Conrad, Joseph
@@ -16,6 +19,8 @@ description: The Mirror of the Sea is Joseph Conrad's true-life account of his s
   odyssey at sea, told through a series of essays. Portraying the ocean as a metaphor
   against which men could measure themselves, Conrad hints at the themes of his later
   fictional works. First published in 1906.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1058#The-Mirror-of-the-Sea
 gutenberg_issued: '1997-10-01'
 gutenberg_type: Text
 identifiers:
